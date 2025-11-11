@@ -1,5 +1,5 @@
 
-  # Prototype UI/UX Design (Copy)
+  # Prototype UI/UX Design
 
   This is a code bundle for Prototype UI/UX Design (Copy). The original project is available at https://www.figma.com/design/hl1B6MI6ZqWJh6b2Gd1ELS/Prototype-UI-UX-Design--Copy-.
 
